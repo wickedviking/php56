@@ -3,8 +3,8 @@ Based on the Official [PHP 5.6 FPM](https://hub.docker.com/_/php/) image from Do
 
 ## Customizations
 **Additions** 
-###Extensions###
+###Extensions
 * ldap
 
-###Packages###
+###Packages
 * [Composer](https://getcomposer.org/)
